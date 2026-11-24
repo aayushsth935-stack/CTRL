@@ -1,4 +1,4 @@
 # CTRL
 This is my first Git Repository.
 <br>
-Author - Aayush Shrestha
+Author - Aayush 
